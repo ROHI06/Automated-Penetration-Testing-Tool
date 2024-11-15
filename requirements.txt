@@ -1,0 +1,4 @@
+Flask
+fpdf2
+nmap
+python-owasp-zap-v2.4
