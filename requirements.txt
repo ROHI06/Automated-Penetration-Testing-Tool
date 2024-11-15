@@ -3,3 +3,5 @@ fpdf2
 nmap
 python-owasp-zap-v2.4
 python-nmap
+Flask==2.2.0
+fpdf2==2.8.1
