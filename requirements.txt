@@ -1,4 +1,3 @@
-pip install --upgrade pip
 Flask
 fpdf2
 nmap
